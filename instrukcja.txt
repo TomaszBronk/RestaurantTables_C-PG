@@ -1,0 +1,2 @@
+Aplikacja konsolowa, mo¿e zostaæ wykorzystana w restauracji przez kelnerów. 
+Umo¿liwia wyœwietlenie listy stolików, zaznaczenie, który stolik jest zajêty lub zarezerwowany.
